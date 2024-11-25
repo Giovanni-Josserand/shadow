@@ -1,1 +1,19 @@
-[{"name": "Shadow Slave API","pkg": "com.example.shadow_slave","apk": "app-debug.apk","lang": "fr","code": 1,"version": "1.0","nsfw": 1,"sources": [{"name": "Shadow Slave Source","lang": "fr","id": "6289731484943315811","baseUrl": "https://tachimanga.josserand.ovh/"}]}]
+[
+    {
+        "name": "Shadow Slave API",
+        "pkg": "com.example.shadow_slave",
+        "apk": "app-debug.apk",
+        "lang": "fr",
+        "code": 1,
+        "version": "1.0",
+        "nsfw": 1,
+        "sources": [
+            {
+                "name": "Shadow Slave Source",
+                "lang": "fr",
+                "id": "6289731484943315811",
+                "baseUrl": "https://tachimanga.josserand.ovh/"
+            }
+        ]
+    }
+]
