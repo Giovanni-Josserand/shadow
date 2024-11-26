@@ -4,15 +4,18 @@
         "pkg": "com.shadow_slave.app",
         "apk": "app-debug-androidTest.apk",
         "lang": "fr",
-        "code": 1,
-        "version": "1.0",
-        "nsfw": 1,
+        "code": 3,
+        "version": "1.4.3",
+        "nsfw": 0,
+        "hasReadme": 0,
+        "hasChangelog": 0,
         "sources": [
             {
-                "name": "Shadow Slave Source",
+                "name": "ShadowSlave",
                 "lang": "fr",
-                "id": "6289731484943315811",
-                "baseUrl": "https://tachimanga.josserand.ovh/"
+                "id": "5104384223103778991",
+                "baseUrl": "https://tachimanga.josserand.ovh/",
+                "versionId": 1
             }
         ]
     }
