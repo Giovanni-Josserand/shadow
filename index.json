@@ -1,18 +1,21 @@
 [
     {
-        "name": "Shadow Slave API",
-        "pkg": "com.shadow_slave.app",
-        "apk": "app-debug.apk",
+        "name": "Tachiyomi: AnimeSama",
+        "pkg": "eu.kanade.tachiyomi.extension.fr.animesama",
+        "apk": "tachiyomi-fr.animesama-v1.4.3.apk",
         "lang": "fr",
-        "code": 1,
-        "version": "1.0",
-        "nsfw": 1,
+        "code": 3,
+        "version": "1.4.3",
+        "nsfw": 0,
+        "hasReadme": 0,
+        "hasChangelog": 0,
         "sources": [
             {
-                "name": "Shadow Slave Source",
+                "name": "AnimeSama",
                 "lang": "fr",
-                "id": "6289731484943315811",
-                "baseUrl": "https://tachimanga.josserand.ovh/"
+                "id": "5104384223103778991",
+                "baseUrl": "https://anime-sama.fr",
+                "versionId": 1
             }
         ]
     }
